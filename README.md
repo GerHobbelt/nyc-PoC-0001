@@ -1,6 +1,6 @@
 # mocha PoC \#4675
 
-Quick &amp; dirty demo of issue [\#4675](https://github.com/mochajs/mocha/issues/4675)
+Quick &amp; dirty demo of issue [\#0001](https://github.com/mochajs/mocha/issues/4675)
 
 ## How to use?
 
@@ -9,7 +9,7 @@ npm install
 npm test
 ```
 
-should show a mocha error.
+should show an all-zeroes coverage report.
 
 See `test/test.js`: comment out the last `import` statement in there and uncomment one of the two `import`s preceeding it to have a proper test run will all green checks.
 
