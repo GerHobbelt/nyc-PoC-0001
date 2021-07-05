@@ -26,3 +26,9 @@ while the **expected** coverage report should say something along the lines of '
 
 Adding commandline options like `--functions 90`, etc. doesn't help one bit as 90% of zero is still ZERO and apparently considered a PASS. 😭
 
+
+
+## Github Actions
+
+[Ditto](https://github.com/GerHobbelt/nyc-PoC-0001/runs/2992555611?check_suite_focus=true#step:7:18)
+
