@@ -1,6 +1,6 @@
 # nyc PoC \#0001
 
-Quick &amp; dirty demo of issue [\#0001](https://github.com/mochajs/nyc/issues/4675)
+Quick &amp; dirty demo of issue [\#1416](https://github.com/istanbuljs/nyc/issues/1416)
 
 ## How to use?
 
@@ -20,6 +20,10 @@ All files |       0 |        0 |       0 |       0 |
 ```
 
 while the **expected** coverage report should say something along the lines of '100% coverage': see the code in `test/test.js` running a few tests, exercising the very simple code in `lib/index.js`, after all.
+
+> `npx envinfo` output is part of the `npm test` output, so can easily be observed in any CI or local rig, any time.
+
+
 
 
 ## P.S.: [circleCI runs and reports ALL GREEN/SUCCESS, but do check those numbers: they are still ZERO there too!](https://app.circleci.com/pipelines/github/GerHobbelt/nyc-PoC-0001)
