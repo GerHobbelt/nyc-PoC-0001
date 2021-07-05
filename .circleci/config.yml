@@ -31,4 +31,5 @@ jobs:
           node-version: << parameters.version >>
           install-yarn: false
       - run: node --version
+      - run: npm install
       - run: npm test
