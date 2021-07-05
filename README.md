@@ -1,6 +1,6 @@
-# mocha PoC \#4675
+# nyc PoC \#0001
 
-Quick &amp; dirty demo of issue [\#0001](https://github.com/mochajs/mocha/issues/4675)
+Quick &amp; dirty demo of issue [\#0001](https://github.com/mochajs/nyc/issues/4675)
 
 ## How to use?
 
