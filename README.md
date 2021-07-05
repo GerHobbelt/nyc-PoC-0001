@@ -1,4 +1,4 @@
-# nyc PoC \#0001
+# nyc PoC [\#1416](https://github.com/istanbuljs/nyc/issues/1416)
 
 Quick &amp; dirty demo of issue [\#1416](https://github.com/istanbuljs/nyc/issues/1416)
 
